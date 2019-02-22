@@ -17,25 +17,26 @@ check the file of example.py
 About File
 ------
  **Attributes**:
-     - getProfile 
-     - kickoutFromGroup 
-     - getContact
-     - getGroupWithoutMembers
-     - getGroup
-     - updateGroup 
-     - reissueGroupTicket 
-     - acceptGroupInvitationByTicket
-     - sendMessage 
-     - cancelGroupInvitation 
-     - leaveGroup 
-     - inviteIntoGroup 
-     - findAndAddContactsByMid 
-     - acceptGroupInvitation 
-     - getGroupIdsJoined 
-     - leaveRoom
-     - updateProfile
-     - rejectGroupInvitation
-     - fetchOperations 
+- getProfile 
+- kickoutFromGroup 
+- getContact
+- getGroupWithoutMembers
+- getGroup
+- updateGroup 
+- reissueGroupTicket 
+- acceptGroupInvitationByTicket
+- sendMessage 
+- cancelGroupInvitation 
+- leaveGroup 
+- inviteIntoGroup 
+- findAndAddContactsByMid 
+- acceptGroupInvitation 
+- getGroupIdsJoined 
+- leaveRoom
+- updateProfile
+- rejectGroupInvitation
+- fetchOperations 
+
 ------
 **Features**
 - debug all
