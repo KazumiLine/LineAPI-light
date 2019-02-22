@@ -16,12 +16,7 @@ check the file of example.py
 
 About File
 ------
-**Speed**
-On your phone: about 0.2-0.06
-On your computer: about 0.2-0.03
-On your VM: about 0.02-0.005
-
-**Attributes**:
+ **Attributes**:
      - getProfile 
      - kickoutFromGroup 
      - getContact
