@@ -1,6 +1,7 @@
-KazumiLineAPI
+# KazumiLineAPI
 
-# require python = 3.5.x
+Require python = 3.5.x
+------
 check your python version
 "python3 --version"
 
@@ -12,8 +13,16 @@ client = KazumiLine.LINE('token','server')
 
 check the file of example.py
 
+
+About File
 ------
-    Attributes:
+**Speed**
+- On your phone: about 0.2-0.06
+- On your computer: about 0.2-0.03
+- On your VM: about 0.02-0.005
+
+------
+**Attributes**:
      - getProfile 
      - kickoutFromGroup 
      - getContact
@@ -34,8 +43,7 @@ check the file of example.py
      - rejectGroupInvitation
      - fetchOperations 
 ------
-**Next**
- features
+**Features**
 - debug all
 - more function
 - more faster
